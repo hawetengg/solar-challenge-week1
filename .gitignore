@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# Data files
+data/
+*.csv
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
