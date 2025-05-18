@@ -6,7 +6,6 @@ Follow these steps to set up the project environment on your local machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/hawetengg/solar-challenge-week1.git
 
 # Navigate into the project directory
 cd solar-challenge-week1
